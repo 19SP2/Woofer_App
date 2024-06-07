@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Woofer App</string>
+    <string name="instructions">This app is your guide to learn all about your pet dog! \nStore your dogs information and get smarter everyday with our up to date articles.\n \nStay tuned we have more in store for you and your dog coming soon!</string>
+    <string name="article1">Dog ‘Language Geniuses’ Are Rare but Apparently Real</string>
+    <string name="article2">20 Dog Statistics All Pet Lovers Should Know in 2024</string>
+    <string name="article3">Dogs Need Understanding, Not Dominance</string>
+    <string name="articleText1">Dogs regularly make top-10 lists of the world’s smartest animals. As any pet owner has likely noticed, though, some dogs—like some people—are sharper than others. And a few might even be, in canine terms, geniuses. \nAs researchers describe today in Scientific Reports, certain dogs are capable of learning the names for more than 100 different toys. Remarkably, most of the dogs in the study seemed to do this spontaneously, without any special training from humans. \nBY RACHEL NUWER\n</string>
+    <string name="articleText2">The 20 Dog Statistics:\n
+1. 8% of dog owners took their dogs to obedience class.\n
+2. 73% of dog owners used some kind of training method.\n
+3. 45% of dog owners trained their dogs themselves.\n
+4. Pet products reached $103.6 billion in sales.\n
+5. 43% of dog owners bought premium dog food.\n
+6. 86% of pet owners purchased pet products online.\n
+7. More than 90% of dog owners took them to the vet for at least one visit.\n
+8. 80% of owners have had their dogs spayed or neutered.\n
+9. 59% of dogs were rated as obese in the U.S. in 2022.\n
+10. 3 million dogs enter animal shelters every year in the U.S.\n
+11. 6 million dogs are adopted and 670,000 dogs are euthanized.\n
+12. 66% of households in the U.S. own at least one pet in 2024.\n
+13. 54% of households in the U.S. have dogs.\n
+14. 31% of millennials are pet owners.\n
+15. 43% of dogs sleep on their owners’ beds.\n
+16. 25 million dog owners take their pups on vacation.\n
+17. 8 million dogs go to work with their owners.\n
+18. 79% of dogs received a Christmas present.\n
+19. The Labrador Retriever has been the most popular dog since 1991.\n
+20. 47% of dog owners have a small breed.\n
+    By Nicole Cosgrove\n</string>
+    <string name="articleText3">In 2022, the researchers Lauren Brubaker and Monique Udell recruited 48 parents and their children for a study on the behavioral effects of different parenting styles. The adult subjects were given a survey about their expectations for their children, and how they typically respond to their needs; the children were tested to determine their attachment style, sociability, and problem-solving skills. I should probably mention that the children involved were dogs.\n
+    The dogs who were cared for by owners with an “authoritative” style, meaning one where high expectations matched a high responsiveness toward their dog’s needs, were secure, highly social, and more successful at problem solving. They bested those with “authoritarian” owners (high expectations but low responsiveness) and “permissive” owners (low expectations, low responsiveness). These results mirrored those in similar studies done on human children. “This is an important finding,” Udell said, “because it suggests that dog owners who take the time to understand and meet their dog’s needs are more likely to end up with secure, resilient dogs.”\n
+    By Kelly Conaboy\n</string>
+</resources>
